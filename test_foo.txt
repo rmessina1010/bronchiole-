@@ -2,6 +2,8 @@ Documentation for tests
 
 types
 
+* utilities
+
 * local
 
 * remote
