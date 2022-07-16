@@ -1,1 +1,10 @@
 Documentation for tests
+
+types
+
+* local
+
+* remote
+
+* function
+
